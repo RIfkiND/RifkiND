@@ -2,7 +2,7 @@
 
 I'm a passionate **Backend Developer** with a deep interest in building efficient, scalable, and robust web applications. I love working with modern backend technologies and always keep up-to-date with the latest trends.
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=RifkiND&color=blue)
 
 ---
 
@@ -15,20 +15,20 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 ---
 
 ## 🛠️ Technologies & Tools I Use
-- **Backend**: Laravel, Node.js, Next.js
+- **Backend**: Laravel, Node.js, Next.js,express
 - **ORMs**: Prisma, Laravel Eloquent
-- **Databases**: MySQL, PostgreSQL, Supabase
+- **Databases**: MySQL, PostgreSQL, Supabase,Mongo DB
 - **Authentication**: NextAuth, JWT, bcrypt
-- **Other Tools**: Docker, Git, Redis, Nginx
+- **Other Tools**: Git,  Nginx
 - **Languages**: PHP, JavaScript, TypeScript
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight)
 
 ---
 
@@ -41,5 +41,4 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
-- **Website/Portfolio**: [Your Portfolio](https://yourportfolio.com)
+- **Email**: rifkinauvaldzaki08@gmail.com
