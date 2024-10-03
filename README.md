@@ -54,5 +54,5 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [My Linkedin](https://linkedin.com/in/rifki-nauval-dzaki-40a242296/)
+**LinkedIn**: [My Linkedin](https://linkedin.com/in/rifki-nauval-dzaki-40a242296/)
 - **Email**: rifkinauvaldzaki08@gmail.com
