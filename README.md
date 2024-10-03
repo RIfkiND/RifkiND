@@ -5,6 +5,7 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 ![Profile views](https://komarev.com/ghpvc/?username=RifkiND&color=blue)
 
 ---
+<iframe src="https://giphy.com/embed/xbLZjyMNQqEpTKjkSm" width="276" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-geek-developer-dev-xbLZjyMNQqEpTKjkSm">via GIPHY</a></p>
 
 ## 🚀 About Me
 - 💻 I specialize in **backend development** with frameworks like **Laravel** and **Next.js**.
