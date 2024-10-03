@@ -39,9 +39,17 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight)
 
 ---
 
