@@ -53,6 +53,9 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ---
 
-## 📫 Let's Connect!
-**LinkedIn**: [My Linkedin](https://linkedin.com/in/rifki-nauval-dzaki-40a242296/)
-- **Email**: rifkinauvaldzaki08@gmail.com
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rifki-nauval-dzaki-40a242296/)
+[![Email](https://img.shields.io/badge/Email-rifkinauvaldzaki08@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:rifkinauvaldzaki08@gmail.com)
+
+Feel free to reach out!
