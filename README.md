@@ -50,6 +50,7 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 - Building robust **API architectures** and scalable microservices.
 - Experimenting with **Supabase** and **Prisma ORM**.
 - Enhancing **Next.js** with modern authentication and database integrations.
+- Exploring **NestJS** for building efficient server-side applications.
 
 ---
 
