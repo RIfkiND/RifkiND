@@ -1,4 +1,4 @@
-# Hi there, I'm Rifki ND👋
+# Hello there, I'm Rifki ND👋
 
 I'm a passionate **Backend Developer** with a deep interest in building efficient, scalable, and robust web applications. I love working with modern backend technologies and always keep up-to-date with the latest trends.
 
