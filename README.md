@@ -6,7 +6,7 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ---
 ## 🚀 About Me
-- 💻 I specialize in **backend development** with frameworks like **Laravel** and **Next.js**.
+- 💻 I specialize in **backend development** with frameworks like **Laravel** and **Expres.js**.
 - 🔥 Currently working with **Prisma**, **Supabase**, and **NextAuth** for authentication and ORM.
 - 💡 I’m always eager to learn new technologies and improve my skills in **API development**, **databases**, and **Web security**.
 
