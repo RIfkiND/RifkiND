@@ -15,8 +15,8 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 ## 🛠️ Technologies & Tools I Use
 - **Backend**: Laravel, Node.js, Next.js,express
 - **ORMs**: Prisma, Laravel Eloquent
-- **Databases**: MySQL, PostgreSQL, Supabase,Mongo DB
-- **Other Tools**: Git,  Nginx
+- **Databases**: MySQL, PostgreSQL,Mongo DB
+-**Other Tools**: Git,Nginx
 -**Languages**: PHP, JavaScript, TypeScript
 
 <p align="left">
