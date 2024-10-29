@@ -11,30 +11,6 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 - 💡 I’m always eager to learn new technologies and improve my skills in **API development**, **databases**, and **Web security**.
 
 ---
-
-## 🛠️ Technologies & Tools I Use
-### Backend
-- **Frameworks**: Laravel, Node.js, Next.js, Express
-
-### ORMs
-- Prisma
-- Laravel Eloquent
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Other Tools
-- Git
-- Nginx
-
-### Languages
-- PHP
-- JavaScript
-- TypeScript
-
----
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
