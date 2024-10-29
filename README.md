@@ -29,14 +29,6 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 </p>
 
 ---
-
-## 🌟 Illustration
-<p align="center">
-  <img src="./assets/server_hand.png" alt="Waving hand and server illustration" width="400"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <table>
