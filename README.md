@@ -5,12 +5,14 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 ![Profile views](https://komarev.com/ghpvc/?username=RifkiND&color=blue)
 
 ---
+
 ## 🚀 About Me
-- 💻 I specialize in **backend development** with frameworks like **Laravel** and **Expres.js**.
+- 💻 I specialize in **backend development** with frameworks like **Laravel** and **Express.js**.
 - 🔥 Currently working with **Laravel**, **Express.js** 
 - 💡 I’m always eager to learn new technologies and improve my skills in **API development**, **databases**, and **Web security**.
 
 ---
+
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -28,6 +30,13 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ---
 
+## 🌟 Illustration
+<p align="center">
+  <img src="./assets/server_hand.png" alt="Waving hand and server illustration" width="400"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <table>
@@ -40,7 +49,6 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
     </td>
   </tr>
 </table>
-
 
 ---
 
