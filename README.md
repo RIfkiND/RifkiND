@@ -18,12 +18,12 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
   <tr>
     <td><img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"></td>
     <td><img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"></td>
     <td><img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"></td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"></td>
+    <td><img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"></td>
     <td><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"></td>
     <td><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"></td>
     <td><img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"></td>
