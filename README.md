@@ -12,34 +12,70 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ---
 
-## 🚀 About Me  
-- 💻 I specialize in **backend development** with frameworks like **Laravel** and **Express.js**.  
-- 🔥 Currently working with **Laravel**, **Express.js**, **Kubernetes**, **REST APIs**.  
-- 🌱 Exploring tools like **Grafana**, **Prometheus**, and modern DevOps practices with **GitHub Actions**.  
+## 🛠️ Technologies & Tools  
 
----
-
-### 🛠️ Technologies & Tools  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/><br>Laravel
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/><br>Go
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/><br>PHP
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br>MySQL
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><br>MongoDB
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/><br>Prisma
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/><br>Next.js
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br>
+        <img src="https://media.giphy.com/media/euVoEOQ7qtUoQ/giphy.gif" height="50" alt="Kubernetes Animation"/><br>Kubernetes
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>
+        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="50" alt="Docker Animation"/><br>Docker
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/><br>Prometheus
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/><br>Grafana
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 📊 GitHub Stats  
@@ -54,22 +90,6 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
     </td>
   </tr>
 </table>
-
----
-
-## 🌱 Current Focus  
-- Building robust **API architectures** and scalable microservices.  
-- Experimenting with **Supabase** and **Prisma ORM**.  
-- Enhancing **Next.js** with modern authentication and database integrations.  
-- Exploring **NestJS** for building efficient server-side applications.  
-- **Learning Kubernetes** for container orchestration.  
-
----
-
-## 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/a242296/)  
-[![Email](https://img.shields.io/badge/Email-rifkinauvaldzaki08@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:rifkinauvaldzaki08@gmail.com)  
 
 ---
 
