@@ -14,57 +14,157 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ### 🛠️ Technologies & Tools  
 
-<table align="center">
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"></td>
-    <td colspan="2"></td>
-  </tr>
-</table>
+> Tools and technologies that I have worked with and am interested in
 
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo">    
+      <br>Laravel
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>Mysql
+    </td>
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo">
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />      
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo">
+      <br>GithubActions
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo">
+      <br>Jenkins
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo">
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo">
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo">
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo">
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo">
+      <br>Deno
+    </td>
+  </tr>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo">
+      <br>Express
+    </td>
+     <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo">
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo">
+      <br>PowerShell
+    </td>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo">
+      <br>GO
+    </td>
+      <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"><br>Php
+    </td>  
+        <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"><br>React.js
+    </td>  
+      <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"><br>Vue.js
+    </td>  
+          <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"><br>Nest.Js
+    </td>  
+
+ <tr>
+ </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats  
