@@ -161,6 +161,10 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
           <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"><br>Nest.Js
     </td>  
+              <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  /><br>ArgoCD
+    </td>  
+
 
  <tr>
  </tr>
