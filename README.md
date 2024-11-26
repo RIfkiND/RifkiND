@@ -153,7 +153,7 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"><br>Php
     </td>  
         <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"><br>React.js
+<img  src="https://techstack-generator.vercel.app/react-icon.svg"height="50" alt="react logo"><br>React.js
     </td>  
       <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"><br>Vue.js
