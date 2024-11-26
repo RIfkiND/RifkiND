@@ -2,7 +2,7 @@
 
 I'm a passionate **Backend Developer** with a deep interest in building efficient, scalable, and robust web applications. I love working with modern backend technologies and always keep up-to-date with the latest trends.
 
-![Profile views](https://komarev.com/ghpvc/?username=RifkiND&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=RifkiND&style=for-the-badge&color=blue)
 
 ---
 
