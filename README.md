@@ -1,8 +1,31 @@
-# Hello there, I'm Rifki ND 👋  
+# Hello there, I'm Rifki ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-I'm a passionate **Backend Developer** with a deep interest in building efficient, scalable, and robust web applications. I love working with modern backend technologies and always keep up-to-date with the latest trends.
+I'm a passionate **Backend Developer** and **DevOps Enthusiast** with a deep interest in building **efficient**, **scalable**, and **robust web applications**. I thrive on creating seamless API integrations, secure transactions, and implementing DevOps practices to enhance development workflows.
 
-![Profile views](https://komarev.com/ghpvc/?username=RifkiND&style=for-the-badge&color=blue)
+---
+
+### 💻 **What I'm Interested In**
+- Building **microservices** architectures.
+- Developing **high-performance APIs**.
+- Exploring **DevOps tools and automation** to streamline deployment processes.
+- **Cloud computing** and container orchestration using **Docker** and **Kubernetes**.
+
+---
+
+### 🛠️ **Currently Working On**
+- Enhancing backend architectures for **scalability and performance**.
+- Implementing CI/CD pipelines with **GitHub Actions** and **Jenkins**.
+- Optimizing deployment workflows using **Nginx** and containerization with **Docker**.
+
+---
+
+### 📚 **What I'm Learning**
+- Advancing skills in **Kubernetes** for managing complex containerized applications.
+- Exploring **GO**  programing Laguange.
+- Exploring **CI/CD** tools with **ArgoCD**.
+- Learing How to solve **LeetCode** problem using **Python**.
+
+
 
 ---
 
