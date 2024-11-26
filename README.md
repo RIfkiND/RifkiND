@@ -6,6 +6,11 @@ I'm a passionate **Backend Developer** with a deep interest in building efficien
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Passionate+Backend+Developer;Scalable+and+Efficient+Solutions;API+Design+and+Integration;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
