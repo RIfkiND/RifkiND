@@ -1,14 +1,35 @@
-<svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Line -->
     <rect width="100%" height="10" fill="url(#gradient)">
         <animate attributeName="width" from="0%" to="100%" dur="3s" repeatCount="indefinite" />
     </rect>
+
+    <!-- Fire-like Effect -->
+    <filter id="fireEffect">
+        <feTurbulence type="fractalNoise" baseFrequency="0.1" numOctaves="3" />
+        <feDisplacementMap in="SourceGraphic" scale="20" />
+    </filter>
+
+    <rect width="100%" height="20" fill="url(#fireGradient)" filter="url(#fireEffect)" opacity="0.6">
+        <animate attributeName="x" from="-100%" to="100%" dur="2s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Gradient Definitions -->
     <defs>
+        <!-- Colorful Gradient -->
         <linearGradient id="gradient" gradientTransform="rotate(90)">
             <stop offset="0%" stop-color="#ff0000" />
             <stop offset="25%" stop-color="#ffff00" />
             <stop offset="50%" stop-color="#00ff00" />
             <stop offset="75%" stop-color="#0000ff" />
             <stop offset="100%" stop-color="#ff00ff" />
+        </linearGradient>
+
+        <!-- Fire-like Gradient -->
+        <linearGradient id="fireGradient">
+            <stop offset="0%" stop-color="#ff4500" />
+            <stop offset="50%" stop-color="#ffa500" />
+            <stop offset="100%" stop-color="#ffff00" />
         </linearGradient>
     </defs>
 </svg>
