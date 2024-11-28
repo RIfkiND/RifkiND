@@ -2,7 +2,7 @@
 
 I'm a passionate **Backend Developer** and **DevOps Enthusiast** with a deep interest in building **efficient**, **scalable**, and **robust web applications**. I thrive on creating seamless API integrations, secure transactions, and implementing DevOps practices to enhance development workflows.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
 
 ### 💻 **What I'm Interested In**
 - Building **microservices** architectures.
