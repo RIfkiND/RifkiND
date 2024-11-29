@@ -224,7 +224,6 @@ I'm a passionate **Backend Developer** and **DevOps Enthusiast** with a deep int
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Backend+Development+is+awesome!" alt="Typing SVG" />
 </div>
 
-
 ---
 
 <picture align="center">
