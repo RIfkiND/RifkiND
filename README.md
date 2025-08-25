@@ -1,6 +1,6 @@
 # Hello there, I'm Rifki ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-I'm a passionate **Backend Developer** and **DevOps Enthusiast** with a deep interest in building **efficient**, **scalable**, and **robust web applications**. I thrive on creating seamless API integrations, secure transactions, and implementing DevOps practices to enhance development workflows.
+I'm a passionate **FullStack Developer** and **DevOps Enthusiast** with a deep interest in building **efficient**, **scalable**, and **robust web applications**. I thrive on creating seamless API integrations, secure transactions, and implementing DevOps practices to enhance development workflows.
 
 
 ![](https://komarev.com/ghpvc/?username=RifkiND)
