@@ -216,11 +216,10 @@ Currently, I am pursuing a **Bachelor’s degree in Software Engineering** at **
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&include_all_commits=false&locale=en&theme=dark&hide_border=true&bg_color=00000000&custom_title=%F0%9F%93%8A%20Github%20Stats
-" alt="GitHub Stats" />
+     <img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
