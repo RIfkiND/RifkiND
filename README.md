@@ -12,24 +12,24 @@ Currently, I am pursuing a **Bachelor’s degree in Software Engineering** at **
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
 
 ### 💻 **What I'm Interested In**
-- Building **microservices** architectures.
+- Joining Coding Competition (ICPC , IOI)
 - Developing **high-performance APIs**.
 - Exploring **DevOps tools and automation** to streamline deployment processes.
-- Exploring  and learning **Artificial intelegence** with python.
+- Learning Math 
 
 ---
 
 ### 🛠️ **Currently Working On**
 - Enhancing backend architectures for **scalability and performance**.
-- Mastering **GO** and **microservices**.
-- Mastering **DSA** by solving problem from leetcode and other(HackerRank).
+- Mastering **GO**.
+- Mastering **DSA** by solving problem from leetcode and other(HackerRank,CodeForces).
 
 ---
 
 ### 📚 **What I'm Learning**
 - Exploring **GO**  programing Laguange.
-- Exploring **TensorFlow** with python.
-- Learing How to solve DSA **Leetcode** problem using **Python**.
+- Learning Math.
+- Learing How to solve DSA **Leetcode** problem using **Python** **C++**.
 
 
 
