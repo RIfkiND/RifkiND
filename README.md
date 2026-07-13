@@ -1,238 +1,66 @@
-# Hello there, I'm Rifki ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+# Hello there, I'm Rifki ND 👋
 
-I'm a passionate **Software Engineer** I enjoy building **efficient**, **scalable**, and **reliable applications**, focusing on seamless API communication, secure systems, and smooth development workflows.
+I'm a **Backend Engineer** passionate about building **scalable**, **reliable**, and **high-performance applications**. I enjoy designing APIs, optimizing databases, automating infrastructure, and solving algorithmic problems.
 
-Currently, I am pursuing a **Bachelor’s degree in Software Engineering** at **Telkom University**, where I continue to sharpen my skills and explore cutting-edge technologies.
-
-
+Currently pursuing a **Bachelor's degree in Software Engineering** at **Telkom University**.
 
 ![](https://komarev.com/ghpvc/?username=RifkiND)
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
+## 🛠️ Tech Stack
 
-### 💻 **What I'm Interested In**
-- Joining Coding Competition (ICPC , IOI)
-- Developing **high-performance APIs**.
-- Exploring **DevOps tools and automation** to streamline deployment processes.
-- Learning Math 
+### Languages
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Infrastructure & Tools
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Backend
+
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 🛠️ **Currently Working On**
-- Enhancing backend architectures for **scalability and performance**.
-- Mastering **GO**.
-- Mastering **DSA** by solving problem from leetcode and other(HackerRank,CodeForces).
-
----
-
-### 📚 **What I'm Learning**
-- Exploring **GO**  programing Laguange.
-- Learning Math.
-- Learing How to solve DSA **Leetcode** problem using **Python** **C++**.
-
-
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
-<br><br>
-
----
-
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Passionate+Backend+Developer;Scalable+and+Efficient+Solutions;API+Design+and+Integration;Always+Learning+New+Technologies" 
-    alt="Typing SVG" 
-  />
-</div>
-
-
-
----
-
-### 🛠️ Technologies & Tools  
-
-> Tools and technologies that I have worked with and am interested in
+## 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo">    
-      <br>Laravel
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>Mysql
-    </td>
-       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo">
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />      
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-<img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo">
-      <br>GithubActions
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo">
-      <br>Jenkins
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo">
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo">
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo">
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo">
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=deno" height="50" alt="denojs logo">
-      <br>Deno
-    </td>
-  </tr>
-      <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo">
-      <br>Express
-    </td>
-     <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo">
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo">
-      <br>PowerShell
-    </td>
-      <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo">
-      <br>GO
-    </td>
-      <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"><br>Php
-    </td>  
-        <td align="center" width="96">
-<img  src="https://techstack-generator.vercel.app/react-icon.svg"height="50" alt="react logo"><br>React.js
-    </td>  
-      <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"><br>Vue.js
-    </td>  
-          <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"><br>Nest.Js
-    </td>  
-              <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  /><br>ArgoCD
-    </td>  
+<tr>
+<td>
 
+<img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight"/>
 
- <tr>
- </tr>
+</td>
+
+<td>
+
+<img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Contributions
 
-<table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Backend+Development+is+awesome!" alt="Typing SVG" />
-</div>
-
----
-
-<picture align="center">
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -242,7 +70,7 @@ Currently, I am pursuing a **Bachelor’s degree in Software Engineering** at **
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
