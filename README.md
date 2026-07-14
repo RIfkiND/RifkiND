@@ -4,35 +4,21 @@ I'm a **Backend Engineer** passionate about building **scalable**, **reliable**,
 
 Currently pursuing a **Bachelor's degree in Software Engineering** at **Telkom University**.
 
-![](https://komarev.com/ghpvc/?username=RifkiND)
-
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Infrastructure & Tools
-
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Backend
-
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Databases
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -44,17 +30,32 @@ Currently pursuing a **Bachelor's degree in Software Engineering** at **Telkom U
 <tr>
 <td>
 
-<img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight" />
 
 </td>
-
 <td>
 
-<img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" />
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rifki--n--dzaki.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rifki-n-dzaki.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-RifkiND-181717?style=flat-square&logo=github)](https://github.com/RifkiND)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rifki%20ND-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=RifkiND&color=0e75b6&style=flat-square&label=Profile+Views"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
