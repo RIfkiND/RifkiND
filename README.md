@@ -1,4 +1,4 @@
-# Hello there, I'm Rifki ND 👋
+# Hello there, I'm Rifki N D 👋
 
 I'm a **Backend Engineer** passionate about building **scalable**, **reliable**, and **high-performance applications**. I enjoy designing APIs, optimizing databases, automating infrastructure, and solving algorithmic problems.
 
