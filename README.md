@@ -45,7 +45,7 @@ Currently pursuing a **Bachelor's degree in Software Engineering** at **Telkom U
 [![Portfolio](https://img.shields.io/badge/Portfolio-rifki--n--dzaki.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rifki-n-dzaki.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-RifkiND-181717?style=flat-square&logo=github)](https://github.com/RifkiND)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rifki%20ND-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rifkinauvaldzaki08@gmail.com)
 
 <p align="center">
   <img
