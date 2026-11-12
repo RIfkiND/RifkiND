@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="42" viewBox="0 0 140 42" role="img" aria-label="Portfolio">
+<style>
+.hand{font-family:"Excalifont","Virgil","Segoe Print","Bradley Hand","Chalkboard SE","Comic Sans MS",cursive}
+</style>
+<defs>
+<filter id="rough" x="-5%" y="-5%" width="110%" height="110%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="7" result="n"/>
+  <feDisplacementMap in="SourceGraphic" in2="n" scale="1.8"/>
+</filter>
+</defs>
+<rect filter="url(#rough)" x="2" y="2" width="136" height="38" rx="10" fill="#191919" stroke="#333333" stroke-width="1.2"/>
+<g transform="translate(14 11) scale(0.85)">
+  <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm7.93 9h-3.18a15.6 15.6 0 0 0-1.38-5.38A8 8 0 0 1 19.93 11zM12 4.07c.88 1.48 1.55 3.75 1.73 6.93H10.27c.18-3.18.85-5.45 1.73-6.93zM4.07 13h3.18a15.6 15.6 0 0 0 1.38 5.38A8 8 0 0 1 4.07 13zm3.18-2H4.07a8 8 0 0 1 4.56-5.38A15.6 15.6 0 0 0 7.25 11zm3.02 2h3.46c-.18 3.18-.85 5.45-1.73 6.93-.88-1.48-1.55-3.75-1.73-6.93zm5.19 5.38A15.6 15.6 0 0 0 16.82 13h3.11a8 8 0 0 1-4.46 5.38z" fill="#10B981"/>
+</g>
+<text class="hand" x="44" y="26" font-size="14.5" font-weight="600" fill="#ffffff">Portfolio</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "rifkind",
+  "private": true,
+  "type": "module",
+  "description": "Generates animated SVG assets for Rifki Nauva Dzaki's GitHub profile and portfolio design system.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "activity": "node scripts/activity.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^2.0.0",
+    "simple-icons": "^16.33.0"
+  }
+}

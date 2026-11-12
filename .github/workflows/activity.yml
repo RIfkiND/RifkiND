@@ -1,0 +1,44 @@
+name: Update Activity Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Every midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/activity.mjs'
+      - 'scripts/data.mjs'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate activity SVG cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/activity.mjs dist
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: false

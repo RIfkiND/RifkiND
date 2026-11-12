@@ -1,74 +1,57 @@
-# Hello there, I'm Rifki N D 👋
+<!--
+  Hand-crafted doodle theme profile assets matching hero-dark style.
+  Dark theme: Pure black #121212 with hand-drawn charcoal/white sketch accents.
+  Light theme: Clean white #ffffff with dark charcoal doodle strokes.
+  Responsive: Desktop (900px) and mobile narrow (540px) variants with prefers-color-scheme switching.
+-->
 
-I'm a **Backend Engineer** passionate about building **scalable**, **reliable**, and **high-performance applications**. I enjoy designing APIs, optimizing databases, automating infrastructure, and solving algorithmic problems.
-
-Currently pursuing a **Bachelor's degree in Software Engineering** at **Telkom University**.
-
----
-
-## 🛠️ Tech Stack
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=RifkiND&show_icons=true&theme=tokyonight" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats-eldments-projects.vercel.app/api/top-langs/?username=RifkiND&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rifki--n--dzaki.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rifki-n-dzaki.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-RifkiND-181717?style=flat-square&logo=github)](https://github.com/RifkiND)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rifki%20ND-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rifkinauvaldzaki08@gmail.com)
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=RifkiND&color=0e75b6&style=flat-square&label=Profile+Views"
-    alt="Profile Views"
-  />
+<p>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-dark-narrow.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-light-narrow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img alt="Rifki Nauva Dzaki — Software Engineer building scalable systems and cloud infrastructure" src="./assets/hero-dark.svg" width="100%">
+  </picture>
 </p>
 
----
+<p align="center">
+  <a href="https://rifki-n-dzaki.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg"><img alt="Portfolio" src="./assets/btn-portfolio-dark.svg"></picture></a>
+  <a href="https://linkedin.com/in/rifki-nd"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="./assets/btn-linkedin-dark.svg"></picture></a>
+  <a href="mailto:rifkinauvaldzaki08@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-email-light.svg"><img alt="Email" src="./assets/btn-email-dark.svg"></picture></a>
+  <a href="https://github.com/RifkiND"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-github-light.svg"><img alt="GitHub" src="./assets/btn-github-dark.svg"></picture></a>
+</p>
 
-## 📈 Contributions
+I'm a **Software Engineer** passionate about building scalable, reliable, and high-performance applications. I enjoy designing APIs, optimizing databases, automating infrastructure, and solving algorithmic problems.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+Currently pursuing a Bachelor's degree in Software Engineering at **Telkom University**, Indonesia.
+
+<p>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/stack-dark-narrow.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/stack-light-narrow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+    <img alt="Tech Stack: Go, Python, PHP, C++, Linux, Bash, Docker, Git, GitHub Actions, Nginx, Redis, TypeScript, JavaScript, PostgreSQL, MySQL" src="./assets/stack-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/calendar-dark-narrow.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/calendar-light-narrow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/calendar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/calendar-light.svg">
+    <img alt="Contribution calendar" src="./assets/calendar-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/footer-dark-narrow.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/footer-light-narrow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+    <img alt="Let's build reliable systems together — reach me at rifkinauvaldzaki08@gmail.com" src="./assets/footer-dark.svg" width="100%">
+  </picture>
+</p>

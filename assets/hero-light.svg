@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Rifki Nauva Dzaki. Backend and software engineer building reliable APIs, services and AI-powered systems."><title>Rifki Nauva Dzaki. Backend and software engineer building reliable APIs, services and AI-powered systems.</title>
+<style>
+.hand{font-family:"Excalifont","Virgil","Segoe Print","Bradley Hand","Chalkboard SE","Comic Sans MS",cursive}
+.rise{animation:rise .5s cubic-bezier(.2,.7,.2,1) both}
+.fade{animation:fade .6s ease-out both}
+.flow{stroke-dasharray:4 4;animation:flow 1.4s linear infinite}
+.float{animation:float 4s ease-in-out infinite alternate}
+/* assemble loop: 5s cycle */
+.aB{animation:aB 5s infinite both}
+.aM{animation:aM 5s infinite both}
+.aT{animation:aT 5s infinite both}
+.pop{animation:pop 5s infinite both}
+.conn{animation:conn 5s infinite both}
+.req,.res{opacity:0;animation:req 5s infinite both}
+.res{animation-name:res}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-16}}
+@keyframes float{from{transform:translateY(0)}to{transform:translateY(-4px)}}
+@keyframes aB{0%{opacity:0;transform:translateY(30px);animation-timing-function:cubic-bezier(.2,.9,.25,1)}10%{opacity:1;transform:translateY(0)}86%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(30px)}}
+@keyframes aM{0%,6%{opacity:0;transform:translateY(-44px)}14%{opacity:1;transform:translateY(-44px);animation-timing-function:cubic-bezier(.2,.9,.25,1.15)}30%{opacity:1;transform:translateY(0)}86%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(-44px)}}
+@keyframes aT{0%,10%{opacity:0;transform:translateY(-88px)}18%{opacity:1;transform:translateY(-88px);animation-timing-function:cubic-bezier(.2,.9,.25,1.15)}36%{opacity:1;transform:translateY(0)}86%{opacity:1;transform:translateY(0)}96%,100%{opacity:0;transform:translateY(-88px)}}
+@keyframes pop{0%,36%{opacity:0;transform:translateY(-10px);animation-timing-function:cubic-bezier(.2,.9,.25,1.2)}46%{opacity:1;transform:translateY(0)}86%{opacity:1;transform:translateY(0)}94%,100%{opacity:0;transform:translateY(-10px)}}
+@keyframes conn{0%,34%{opacity:0}42%{opacity:1}86%{opacity:1}94%,100%{opacity:0}}
+@keyframes req{0%,44%{opacity:0;transform:translateY(0)}48%{opacity:1}64%{opacity:1;transform:translateY(118px)}68%,100%{opacity:0;transform:translateY(118px)}}
+@keyframes res{0%,66%{opacity:0;transform:translateY(0)}70%{opacity:1}84%{opacity:1;transform:translateY(-118px)}88%,100%{opacity:0;transform:translateY(-118px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<filter id="rough" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="7" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.2"/></filter>
+<clipPath id="card"><rect width="900" height="280" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="900" height="280" fill="#ffffff"/>
+
+<g class="hand">
+<g class="rise" style="animation-delay:0ms"><text x="44" y="92" font-size="13" letter-spacing="2" font-weight="700" fill="#6b7280">BACKEND &amp; DEVOPS</text></g>
+<g class="rise" style="animation-delay:70ms"><text x="42" y="142" font-size="42" font-weight="700" fill="#111827">Rifki Nauva Dzaki</text></g>
+<g filter="url(#rough)" class="fade" style="animation-delay:200ms"><path d="M44 155 C130 149 230 160 330 152 S 400 155 418 153" fill="none" stroke="#111827" stroke-width="2.6" stroke-linecap="round"/></g>
+<g class="rise" style="animation-delay:140ms"><text x="44" y="186" font-size="19" font-weight="600" fill="#1f2937">Software Engineer</text></g>
+<g class="rise" style="animation-delay:200ms"><text x="44" y="212" font-size="14" fill="#4b5563">Building reliable APIs, services and AI-powered systems.</text></g>
+</g>
+    
+<g transform="translate(745 146) scale(0.9)">
+<g filter="url(#rough)" fill="none" stroke="#1f2937" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round">
+<g class="aB"><polygon points="103.92,60 0,120 0,114 103.92,54" fill="#e5e7eb"/><polygon points="-103.92,60 0,120 0,114 -103.92,54" fill="#d1d5db"/><polygon points="0,-6 103.92,54 0,114 -103.92,54" fill="#f3f4f6"/><g class="pop" style="animation-delay:0s"><path d="M-20 42 V58 A12 6 0 0 0 4 58 V42" fill="#ffffff"/><path d="M-20 50.0 A12 6 0 0 0 4 50.0" fill="none" stroke="#1f2937" stroke-opacity=".55" stroke-width="1"/><ellipse cx="-8" cy="42" rx="12" ry="6" fill="#e5e7eb"/><path d="M14 50 V66 A12 6 0 0 0 38 66 V50" fill="#ffffff"/><path d="M14 58.0 A12 6 0 0 0 38 58.0" fill="none" stroke="#1f2937" stroke-opacity=".55" stroke-width="1"/><ellipse cx="26" cy="50" rx="12" ry="6" fill="#e5e7eb"/><polygon points="50.2,38 58,42.5 58,51.5 50.2,47" fill="#d1d5db"/><polygon points="65.8,38 58,42.5 58,51.5 65.8,47" fill="#e5e7eb"/><polygon points="58,33.5 65.8,38 58,42.5 50.2,38" fill="#f3f4f6"/></g></g>
+<g class="conn" stroke-dasharray="2 3" stroke="#4b5563" stroke-opacity=".6"><line x1="103.92" y1="54" x2="103.92" y2="-2"/><line x1="-103.92" y1="54" x2="-103.92" y2="-2"/><line x1="103.92" y1="-8" x2="103.92" y2="-64"/><line x1="-103.92" y1="-8" x2="-103.92" y2="-64"/></g>
+<g class="aM"><polygon points="103.92,-2 0,58 0,52 103.92,-8" fill="#e5e7eb"/><polygon points="-103.92,-2 0,58 0,52 -103.92,-8" fill="#d1d5db"/><polygon points="0,-68 103.92,-8 0,52 -103.92,-8" fill="#f3f4f6"/><g class="pop" style="animation-delay:.15s"><g class="flow" stroke="#1f2937" stroke-width="1.3" stroke-opacity=".7"><line x1="-26" y1="-7" x2="10" y2="-23"/><line x1="-26" y1="-7" x2="10" y2="9"/><line x1="10" y1="-23" x2="46" y2="-7"/><line x1="10" y1="9" x2="46" y2="-7"/></g><polygon points="-33.8,-12 -26,-7.5 -26,1.5 -33.8,-3" fill="#d1d5db"/><polygon points="-18.2,-12 -26,-7.5 -26,1.5 -18.2,-3" fill="#e5e7eb"/><polygon points="-26,-16.5 -18.2,-12 -26,-7.5 -33.8,-12" fill="#f3f4f6"/><polygon points="2.2,-28 10,-23.5 10,-14.5 2.2,-19" fill="#d1d5db"/><polygon points="17.8,-28 10,-23.5 10,-14.5 17.8,-19" fill="#e5e7eb"/><polygon points="10,-32.5 17.8,-28 10,-23.5 2.2,-28" fill="#f3f4f6"/><polygon points="2.2,4 10,8.5 10,17.5 2.2,13" fill="#d1d5db"/><polygon points="17.8,4 10,8.5 10,17.5 17.8,13" fill="#e5e7eb"/><polygon points="10,-0.5 17.8,4 10,8.5 2.2,4" fill="#f3f4f6"/><polygon points="38.2,-12 46,-7.5 46,1.5 38.2,-3" fill="#d1d5db"/><polygon points="53.8,-12 46,-7.5 46,1.5 53.8,-3" fill="#e5e7eb"/><polygon points="46,-16.5 53.8,-12 46,-7.5 38.2,-12" fill="#f3f4f6"/></g></g>
+<g class="aT"><polygon points="103.92,-64 0,-4 0,-10 103.92,-70" fill="#e5e7eb"/><polygon points="-103.92,-64 0,-4 0,-10 -103.92,-70" fill="#d1d5db"/><polygon points="0,-130 103.92,-70 0,-10 -103.92,-70" fill="#f3f4f6"/><g class="pop" style="animation-delay:.3s"><polygon points="-6,-72 24,-56 -6,-40 -36,-56" fill="#000" fill-opacity=".04" stroke="none"/><g stroke="#4b5563" stroke-opacity=".6" stroke-width="1"><line x1="44" y1="-66" x2="60" y2="-74"/><line x1="44" y1="-66" x2="60" y2="-58"/><line x1="60" y1="-74" x2="76" y2="-66"/><line x1="60" y1="-58" x2="76" y2="-66"/></g><rect x="41" y="-69" width="6" height="6" rx="1" fill="#ffffff" stroke="#1f2937" stroke-width="1.3"/><rect x="57" y="-77" width="6" height="6" rx="1" fill="#ffffff" stroke="#1f2937" stroke-width="1.3"/><rect x="57" y="-61" width="6" height="6" rx="1" fill="#ffffff" stroke="#1f2937" stroke-width="1.3"/><rect x="73" y="-69" width="6" height="6" rx="1" fill="#ffffff" stroke="#1f2937" stroke-width="1.3"/><g class="float"><g stroke-width="1.9" transform="translate(-6 -94) scale(.78) translate(-741 -80)"><path d="M720 96 C706 96 702 80 712 74 C710 64 722 56 732 60 C738 52 754 52 758 62 C770 60 776 74 768 80 C778 88 770 100 758 98 C754 106 740 108 734 100 C728 104 720 102 720 96 Z" fill="#ffffff" stroke="#1f2937"/>
+<path d="M745 59 C741 72 749 80 744 101" stroke="#1f2937" stroke-width="1.4"/>
+<path d="M722 76 C728 74 730 80 736 78 M752 70 C758 72 760 78 766 76 M726 90 C732 88 736 92 740 90 M750 88 C756 90 760 86 764 90" stroke="#1f2937" stroke-width="1.3"/></g></g></g></g>
+</g>
+<g class="conn"><g transform="matrix(0.866 0.5 -0.866 0.5 -87.4686 54.5)"><text class="hand" x="0" y="0" font-size="11" font-weight="700" letter-spacing="1.5" fill="#111827" fill-opacity=".85">DEVOPS</text></g><g transform="matrix(0.866 0.5 -0.866 0.5 -87.4686 -7.5)"><text class="hand" x="0" y="0" font-size="11" font-weight="700" letter-spacing="1.5" fill="#111827" fill-opacity=".85">BACKEND</text></g><g transform="matrix(0.866 0.5 -0.866 0.5 -87.4686 -69.5)"><text class="hand" x="0" y="0" font-size="11" font-weight="700" letter-spacing="1.5" fill="#111827" fill-opacity=".85">AI</text></g></g>
+<g class="req"><rect x="101" y="-76" width="6" height="6" fill="#111827" transform="rotate(45 104 -73)"/></g>
+<g class="res"><rect x="-107" y="51" width="6" height="6" fill="#111827" transform="rotate(45 -104 54)"/></g>
+</g>
+</g>
+<rect x=".5" y=".5" width="899" height="279" rx="13.5" fill="none" stroke="#e5e5e5"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="280" viewBox="0 0 540 280" role="img" aria-label="Let's build reliable systems together">
+<style>
+.hand{font-family:"Excalifont","Virgil","Segoe Print","Bradley Hand","Chalkboard SE","Comic Sans MS",cursive}
+.rise{animation:rise .5s cubic-bezier(.2,.7,.2,1) both}
+.fade{animation:fade .6s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<filter id="rough" x="-5%" y="-5%" width="110%" height="110%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="7" result="n"/>
+  <feDisplacementMap in="SourceGraphic" in2="n" scale="2.2"/>
+</filter>
+<clipPath id="card"><rect width="540" height="280" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="540" height="280" fill="#ffffff"/>
+
+<g class="hand">
+  <g class="rise" style="animation-delay:0ms">
+    <text x="36" y="52" font-size="12" letter-spacing="2" font-weight="700" fill="#6b7280">LET'S CONNECT · OPEN TO ROLES</text>
+  </g>
+  <g class="rise" style="animation-delay:70ms">
+    <text x="34" y="92" font-size="25" font-weight="700" fill="#111827">Let's build reliable systems</text>
+    <text x="34" y="122" font-size="25" font-weight="700" fill="#111827">together.</text>
+  </g>
+  <g filter="url(#rough)" class="fade" style="animation-delay:200ms">
+    <path d="M36 132 C120 128 240 136 340 131 S 400 134 420 132" fill="none" stroke="#111827" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <g class="rise" style="animation-delay:140ms">
+    <text x="36" y="164" font-size="14" fill="#4b5563">Backend architecture, DevOps &amp; cloud systems.</text>
+  </g>
+
+  <!-- Email CTA Pill -->
+  <g class="rise" style="animation-delay:200ms">
+    <rect filter="url(#rough)" x="36" y="186" width="310" height="42" rx="10" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1.2"/>
+    <g transform="translate(50 197) scale(0.85)">
+      <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z" fill="#EA4335"/>
+    </g>
+    <text class="hand" x="78" y="213" font-size="14.5" font-weight="600" fill="#111827">rifkinauvaldzaki08@gmail.com</text>
+  </g>
+
+  <g class="rise" style="animation-delay:260ms">
+    <text x="36" y="254" font-size="12" letter-spacing="1.2" fill="#6b7280">INDONESIA (UTC+7) · TELKOM UNIVERSITY</text>
+  </g>
+</g>
+</g>
+<rect x=".5" y=".5" width="539" height="279" rx="13.5" fill="none" stroke="#e5e5e5"/>
+</svg>
