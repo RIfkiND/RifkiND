@@ -35,7 +35,7 @@
 
 <g class="hand" fill="#fff">
 <g class="rise" style="animation-delay:0ms"><text x="44" y="92" font-size="14" letter-spacing="2" fill-opacity=".6"></text></g>
-<g class="rise" style="animation-delay:70ms"><text x="42" y="142" font-size="42" font-weight="700">Rifki Nauva Dzaki</text></g>
+<g class="rise" style="animation-delay:70ms"><text x="42" y="142" font-size="42" font-weight="700">Rifki Nauval Dzaki</text></g>
 <g filter="url(#rough)" class="fade" style="animation-delay:200ms"><path d="M44 155 C130 149 230 160 330 152 S 400 155 418 153" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></g>
 <g class="rise" style="animation-delay:140ms"><text x="44" y="186" font-size="19" fill-opacity=".9">Software Engineer</text></g>
 <g class="rise" style="animation-delay:200ms"><text x="44" y="212" font-size="14" fill-opacity=".55">Building reliable APIs, services and AI-powered systems.</text></g>
