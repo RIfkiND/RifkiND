@@ -11,7 +11,7 @@
     <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-light-narrow.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="Rifki Nauva Dzaki — Software Engineer building scalable systems and cloud infrastructure" src="./assets/hero-dark.svg" width="100%">
+    <img alt="Rifki Nauval Dzaki — Software Engineer building scalable systems and cloud infrastructure" src="./assets/hero-dark.svg" width="100%">
   </picture>
 </p>
 
