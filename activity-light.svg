@@ -430,11 +430,12 @@
 <rect x="1104" y="270" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell" style="animation-delay:0.94s"/>
 <rect x="1104" y="290" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell" style="animation-delay:0.96s"/>
 <rect x="1104" y="310" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell" style="animation-delay:0.98s"/>
-<rect x="1124" y="190" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell today" style="animation-delay:0.88s"/>
+<rect x="1124" y="190" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell" style="animation-delay:0.88s"/>
+<rect x="1124" y="210" width="16" height="16" rx="3.5" fill="#EAEBED" class="cell today" style="animation-delay:0.9s"/>
 <text x="32" y="222" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" fill="#8A8A8A">Mon</text>
 <text x="32" y="262" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" fill="#8A8A8A">Wed</text>
 <text x="32" y="302" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" fill="#8A8A8A">Fri</text>
-<text x="84" y="371" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" fill="#8A8A8A">Updated Nov 22, 2026</text>
+<text x="84" y="371" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" fill="#8A8A8A">Updated Nov 23, 2026</text>
 <text x="1030" y="371" class="fm" font-weight="400" font-size="12" letter-spacing="0.4" text-anchor="end" fill="#8A8A8A">Less</text>
 <rect x="1040" y="360" width="14" height="14" rx="3" fill="#EAEBED"/>
 <rect x="1060" y="360" width="14" height="14" rx="3" fill="#FFD3CB"/>
